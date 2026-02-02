@@ -1,6 +1,6 @@
 # Patrick Rodriguez
 
-Design Technologist
+Design Technologist 📍 New York City  
 
 ## About
 I am a graduate architecture student exploring the intersection of computation, IT, and design within architectural practice. 
@@ -39,5 +39,3 @@ plugins that empower designers to work more efficiently and elevate the quality 
 ![REST API](https://img.shields.io/badge/REST-API-005571?style=flat-square)
 ![Three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
----
-📍 New York City  
