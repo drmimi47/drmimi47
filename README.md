@@ -1,6 +1,6 @@
 # Patrick Rodriguez
 
-Design Technologist 📍 New York City  
+Design Technologist · New York City  
 
 ## About
 I am a graduate architecture student exploring the intersection of computation, IT, and design within architectural practice. 
@@ -13,7 +13,7 @@ plugins that empower designers to work more efficiently and elevate the quality 
 ## Currently Working On
 - Parametric zoning envelopes derived from NYC FAR regulations  
 - Grasshopper + Python workflows for rule-based massing and spatial logic  
-- **Material In-Site** — a guide to material choice through quantified procurement,
+- **Material In-Site**, a guide to material choice through quantified procurement,
   sourcing, and cultural context  
 
 ## Selected Interests
