@@ -2,8 +2,8 @@
 
 Design Technologist · New York City
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-d-rodriguez)  
-![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patrick.d.rodriguez@columbia.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-d-rodriguez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patrick.d.rodriguez@columbia.edu)
 
 ## About
 I am a graduate architecture student exploring the intersection of computation, IT, and design within architectural practice. 
