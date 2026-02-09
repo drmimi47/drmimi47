@@ -1,6 +1,6 @@
 # Patrick Rodriguez
 
-Design Technologist · New York City  
+Design Technologist · New York City · patrick.d.rodriguez@columbia.edu
 
 ## About
 I am a graduate architecture student exploring the intersection of computation, IT, and design within architectural practice. 
