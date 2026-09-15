@@ -1,9 +1,9 @@
 # Patrick Rodriguez
 
-**Computational Design & Product Development, AEC**
+**Computational Design & Product Development, AEC**  
 New York, NY
 
-[Website](YOUR_WEBSITE_URL) · [LinkedIn](www.linkedin.com/in/patrick-d-rodriguez) · [Email](patrick.d.rodriguez@columbia.edu)
+[Website](YOUR_WEBSITE_URL) · [LinkedIn](https://www.linkedin.com/in/patrick-d-rodriguez/) · [Email](mailto:patrick.d.rodriguez@columbia.edu)
 
 ---
 
