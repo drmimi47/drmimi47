@@ -11,4 +11,5 @@ I'm on HDR's Data Driven Design (D3) R&D team, working on AI accelerated design 
 
 With a background in architecture, I focus on identifying workflow problems and building computational tools that help designers work more effectively.
 
-**Tools:** Python, TypeScript, React, Three.js, Grasshopper, Revit, Claude Code, LangGraph
+**Tools:** Python, TypeScript, React, Three.js, Firebase, Claude Code, LangGraph
+**Design & AEC:** Grasshopper, Rhino, Revit, GeoPandas
